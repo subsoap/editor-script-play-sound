@@ -1,0 +1,6 @@
+[library]
+include_dirs = editor-script-play-sound
+
+[project]
+title = editor-script-play-sound
+
