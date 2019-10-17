@@ -4,7 +4,7 @@ Adds a right click context menu for .sound .wav and .ogg files to play them with
 
 You can get ffplay from downloading FFmpeg and adding its bin to your path https://ffmpeg.zeranoe.com/builds/ search Google for help if you get stuck!
 
-Problems: files can sometimes be locked with Java when playing!?, you can't stop audio playing once it beings, you can't play multiple sounds at once, and must wait for previous sounds to finish, you can't set the audio level so make sure your system level is low enough
+Problems: files can sometimes be locked with Java when playing!?, you can't stop audio playing once it begins, you can't play multiple sounds at once, and must wait for previous sounds to finish, you can't set the audio level so make sure your system level is low enough
 
 Hopefully some day soon Defold gets built in playing of audio to preview in the editor with start/stop buttons.
 
